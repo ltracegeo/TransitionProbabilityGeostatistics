@@ -15,8 +15,8 @@ facies since the user can prohibit some transitions as a way to include geologic
 
 ### Isotropic Simulation
 
-![Example of an isotropic facies simulation](figs\isotropic.png)
+![Example of an isotropic facies simulation](figs/isotropic.png)
 
 ### Anisotropic Simulation
 
-![Example of an anisotropic facies simulation](figs\anisotropic.png)
+![Example of an anisotropic facies simulation](figs/anisotropic.png)
